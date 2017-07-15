@@ -12,5 +12,5 @@ cd rescue_mission<br>
 bundle install<br>
 rake db:create<br>
 rake db:migrate<br>
-rails s
+rails server
 
