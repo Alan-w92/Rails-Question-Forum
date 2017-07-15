@@ -1,24 +1,15 @@
-# README
+Rescue Mission
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rescue Mission is a website for posting your questions and getting help from anonymous users.
 
-Things you may want to cover:
 
-* Ruby version
+Local Setup
 
-* System dependencies
+In the command line run:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+cd rescue-mission
+cd rescue_mission
+bundle install
+rake db:create
+rake db:migrate
+rails s
