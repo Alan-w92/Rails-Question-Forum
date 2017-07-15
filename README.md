@@ -7,6 +7,7 @@ Local Setup
 
 In the command line run:
 
+gitclone github.com/Alan-w92/Rails-Question-Forum-
 cd rescue-mission<br>
 cd rescue_mission<br>
 bundle install<br>
