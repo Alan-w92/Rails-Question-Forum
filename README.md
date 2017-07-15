@@ -7,8 +7,8 @@ Local Setup
 
 In the command line run:
 
-cd rescue-mission
-cd rescue_mission
+"cd rescue-mission\n"
+cd rescue_mission<br>
 bundle install
 rake db:create
 rake db:migrate
