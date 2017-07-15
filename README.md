@@ -7,10 +7,10 @@ Local Setup
 
 In the command line run:
 
-"cd rescue-mission\n"
+cd rescue-mission<br>
 cd rescue_mission<br>
-bundle install
-rake db:create
-rake db:migrate
+bundle install<br>
+rake db:create<br>
+rake db:migrate<br>
 rails s
 
